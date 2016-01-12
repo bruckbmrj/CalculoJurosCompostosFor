@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452482670 source:c:\users\bruno braga mendonça\documents\algoritmos\c++_referencia\calculojuroscompostosfor\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+
